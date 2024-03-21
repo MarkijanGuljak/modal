@@ -1,2 +1,2 @@
 # modal
-Посилання на ресурс
+Посилання на ресурс: https://markijanguljak.github.io/modal/
